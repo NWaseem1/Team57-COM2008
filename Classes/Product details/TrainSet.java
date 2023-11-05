@@ -4,6 +4,6 @@ public class TrainSet {
     String brandName;
     String productName;
     Float retailPrice;
-    int stockQuality;
+    Float carriageQty;
 
 }
