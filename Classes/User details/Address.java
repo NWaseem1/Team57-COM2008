@@ -1,5 +1,8 @@
 public class Address {
-    public static void main(String[] args) {
-        
-    }
+
+    int houseId;
+    int houseNumber;
+    String roadName;
+    String cityName;
+    String postcode;
 }

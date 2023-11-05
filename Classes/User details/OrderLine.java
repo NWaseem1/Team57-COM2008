@@ -1,5 +1,11 @@
 public class OrderLine {
-    public static void main(String[] args) {
-        
+    int productCode;
+    int quantity;
+    int lineCost;
+    int orderlineID;
+
+
+    public Boolean removeOrderLine(int orderlineID) {
+        return false;
     }
 }

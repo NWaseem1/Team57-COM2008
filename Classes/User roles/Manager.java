@@ -1,5 +1,12 @@
 public class Manager {
-    public static void main(String[] args) {
-        
+    
+    User userdata = new User();
+
+    public Boolean promoteRegisteredUser(int userID) {
+        return false;
+    }
+
+    public Boolean demoteRegisteredUser(int userID) {
+        return false;
     }
 }
