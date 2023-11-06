@@ -3,3 +3,15 @@
 
 # Ignore Gradle build output directory
 build
+
+.DS_Store
+
+.vscode/
+
+app/bin/
+
+# Ignore .DS_Store files in the app/ directory
+app/**/*.DS_Store
+
+# Ignore any other untracked files and directories
+**/.*
